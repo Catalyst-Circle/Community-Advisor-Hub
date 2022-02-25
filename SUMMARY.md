@@ -17,4 +17,4 @@
 
 ## Problem Management
 
-* [GitHub](problem-management/github.md)
+* [Community Advisor Problem Board](problem-management/community-advisor-problem-board.md)
