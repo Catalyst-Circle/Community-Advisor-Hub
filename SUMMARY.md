@@ -15,6 +15,6 @@
 
 * [Miro](ideate/miro.md)
 
-## Group 1
+## Problem Management
 
-* [GitHub](group-1/github.md)
+* [GitHub](problem-management/github.md)
