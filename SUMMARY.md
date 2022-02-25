@@ -10,3 +10,7 @@
 ## Documents
 
 * [Document](documents/document.md)
+
+## ideate
+
+* [Miro](ideate/miro.md)
