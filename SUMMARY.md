@@ -14,3 +14,7 @@
 ## ideate
 
 * [Miro](ideate/miro.md)
+
+## Group 1
+
+* [Problem management](group-1/problem-management.md)
