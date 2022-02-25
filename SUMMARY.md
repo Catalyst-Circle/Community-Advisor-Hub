@@ -2,3 +2,7 @@
 
 * [Community Advisor Hub](README.md)
 * [Circle Representation](circle-representation.md)
+
+## Sub-Circle
+
+* [Community Advisor Sub-Circle](sub-circle/community-advisor-sub-circle.md)
