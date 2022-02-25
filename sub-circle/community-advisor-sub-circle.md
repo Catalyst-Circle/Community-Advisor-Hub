@@ -6,10 +6,14 @@ Community Advisor Sub-Circle
 
 ## Overview of the Process
 
+### Document
 
+GitBook - Aggregate documentation sources
 
-Document
+### Ideate
 
-Ideatate
+Miro - Filter problems and ideate on processes
 
-Problem management
+### Problem management
+
+GitHub - Manahe problems on a Kanban board
