@@ -16,4 +16,4 @@ Miro - Filter problems and ideate on processes
 
 ### Problem management
 
-GitHub - Manahe problems on a Kanban board
+GitHub - Manage problems on a Kanban board
