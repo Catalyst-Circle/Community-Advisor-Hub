@@ -11,9 +11,9 @@
 
 * [Document](documents/document.md)
 
-## ideate
+## ideation
 
-* [Miro](ideate/miro.md)
+* [Miro](ideation/miro.md)
 
 ## Problem Management
 

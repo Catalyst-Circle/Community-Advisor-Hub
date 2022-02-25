@@ -10,9 +10,9 @@ Community Advisor Sub-Circle
 
 GitBook - Aggregate documentation sources
 
-### Ideate
+### Ideation
 
-Miro - Filter problems and ideate on processes
+Miro - Filter problems and ideation on processes
 
 ### Problem management
 
