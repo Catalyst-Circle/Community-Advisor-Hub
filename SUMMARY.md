@@ -17,4 +17,4 @@
 
 ## Group 1
 
-* [Problem management](group-1/problem-management.md)
+* [GitHub](group-1/github.md)
